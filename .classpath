@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Alonso/workspace/Minhas_Bibliotecas/sikuli/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alonso/workspace/Minhas_Bibliotecas/okhttp-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alonso/workspace/Minhas_Bibliotecas/okio-1.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alonso/workspace/Minhas_Bibliotecas/telegram_bot/java-telegram-bot-api-2.1.1.jar" sourcepath="C:/Users/Alonso/workspace/Minhas_Bibliotecas/telegram_bot/java-telegram-bot-api-2.1.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Alonso/workspace/Minhas_Bibliotecas/telegram_bot/java-telegram-bot-api-2.1.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Alonso/workspace/Minhas_Bibliotecas/gson-gson-parent-2.7/gson-2.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
